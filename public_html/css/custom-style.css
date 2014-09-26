@@ -7,12 +7,14 @@ div{
 
 .container {
     border-bottom-color: yellow;
-    border-left-color: black;
-    border-right-color: black;
+    border-left-color: darkblue;
+    border-right-color: darkblue;
+    border-bottom-color:darkblue;
     padding: 20px;
 }
 
 .jumbotron{
+    background-color: transparent; 
 }
 
 /*{
@@ -24,4 +26,6 @@ body{
    
     background-image:url('http://megahdwall.com/wp-content/uploads/2014/06/Linal-Messi-Soccer-Lionel-302475.jpg') ;
 }
-
+body{
+    color: yellow;
+    
